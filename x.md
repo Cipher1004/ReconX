@@ -63,3 +63,10 @@ The framework emphasizes:
 git clone https://github.com/yourusername/ReconX.git
 cd ReconX
 pip install -r requirements.txt
+
+```
+
+## 📸 Screenshot
+
+<img width="1392" height="961" alt="image" src="https://github.com/user-attachments/assets/c8caecad-5a83-4ea2-838c-92b9210815c1" />
+
