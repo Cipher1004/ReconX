@@ -60,9 +60,10 @@ The framework emphasizes:
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/ReconX.git
+git clone https://github.com/cipher1004/ReconX.git
 cd ReconX
 pip install -r requirements.txt
+python reconx.py
 
 ```
 
@@ -70,3 +71,4 @@ pip install -r requirements.txt
 
 <img width="1392" height="961" alt="image" src="https://github.com/user-attachments/assets/c8caecad-5a83-4ea2-838c-92b9210815c1" />
 
+### Happy hacking (ethically)! 🐞💻
