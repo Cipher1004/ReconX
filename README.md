@@ -59,17 +59,25 @@ python reconx.py
 # 📊Example Use Case
 
 Enter a target domain (e.g., example.com)
+
 Verify the target is in scope
+
 Select a recon module or run Full Recon
+
 Monitor results in the Output Console
+
 Export findings for reporting
 
 # 🔐 Legal Disclaimer
 
 ReconX is intended for educational purposes and authorized security testing only.
+
 By using this tool, you agree that:
+
 You have explicit permission to test the target
+
 You take full responsibility for your actions
+
 The developers are not liable for misuse or damage
 
 # 📸 Screenshot
