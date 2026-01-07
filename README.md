@@ -43,13 +43,17 @@ Run all modules in one automated workflow.
 # 🚀 Getting Started
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/ReconX.git
+
+git clone https://github.com/cipher1004/ReconX.git
+
 cd ReconX
 
 2️⃣ Install Requirements
+
 pip install -r requirements.txt
 
 3️⃣ Run ReconX
+
 python reconx.py
 
 # 📊Example Use Case
